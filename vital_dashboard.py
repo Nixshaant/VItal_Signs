@@ -1,9 +1,9 @@
 import pandas as pd
 import streamlit as st 
 import plotly.express as px
-import os
-import warnings
-warnings.filterwarnings('ignore')
+#import os
+#import warnings
+#warnings.filterwarnings('ignore')
 
 st.set_page_config(page_title="Vital Signs", page_icon=":bar_chart", layout="wide")
 st.title(" :bar_chart: Vital Signs Dashboard")
